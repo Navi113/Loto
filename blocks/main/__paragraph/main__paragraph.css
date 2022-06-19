@@ -1,0 +1,10 @@
+.main__paragraph {
+  font-size: 50px;
+  line-height: 70px;
+  font-weight: normal;
+  color: #004445;
+  text-align: center;
+  margin: 50px auto 0;
+  padding: 0 0 50px 0;
+  border-bottom: 3px solid beige;
+}

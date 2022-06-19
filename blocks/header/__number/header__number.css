@@ -1,0 +1,11 @@
+.header__number {
+  width: 400px;
+  font-size: 200px;
+  line-height: 220px;
+  font-weight: 900;
+  color: #004445;
+  margin: 0;
+  background-color: beige;
+  border-radius: 20px;
+  text-align: center;
+}
